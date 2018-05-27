@@ -1,0 +1,2 @@
+endpoint: https://us1.prisma.sh/yaniv-tal/voting-graphql-server/dev
+datamodel: datamodel.graphql
